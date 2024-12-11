@@ -1,1 +1,1 @@
-# alu-files_manager
+Summative Project: Multilingual File Manager Application
